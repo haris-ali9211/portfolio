@@ -29,7 +29,7 @@ const Portfolio=()=>{
 useEffect(() => {
   const getProducts = async () => {
       try {
-          const res = await axios.get("https://api.github.com/users/umerfarooq777/repos");
+          const res = await axios.get("https://api.github.com/users/haris-ali9211/repos");
           setapiData(res.data);
       } 
       catch (err) { }

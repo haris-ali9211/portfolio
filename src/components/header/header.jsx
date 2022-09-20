@@ -16,7 +16,7 @@ const header = () => {
     <header id='home'>
     <div className="container header_container">
       <h5>Hello I'm</h5>
-      <Fade top><h1 className='myname'><span className='sym'>{data1}</span> UMER FAROOQ <span className='sym'>{data2}</span></h1></Fade>
+      <Fade top><h1 className='myname'><span className='sym'>{data1}</span> Haris ALi <span className='sym'>{data2}</span></h1></Fade>
       {/* <p style={{display:inline-block}}>{data}</p><h1>{data1}</h1><p></p> */}
       <h5 className="text-light post"> 
    
@@ -31,9 +31,9 @@ const header = () => {
         startDelay={2000}
         cursorColor="var(--color-light)"
         multiText={[
-          'MERN Stack Developer ',
-          'UI-UX Designer',
-          'Creative Artist',
+          'FOOTBALLER',
+          'MERN STACK DEVELOPER',
+          'REACT NATIVE DEVELOPER',
          
         ]}
         
