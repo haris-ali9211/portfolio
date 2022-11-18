@@ -34,7 +34,6 @@ const header = () => {
                 'FOOTBALLER',
                 'MERN STACK DEVELOPER',
                 'REACT NATIVE DEVELOPER',
-
               ]}
 
               loop={true}
@@ -50,10 +49,6 @@ const header = () => {
             <Fade bottom delay={500}><img src={ME} alt="me" /></Fade>
           </div></Fade>
           <a href="#contact" className='scroll_down'>Scroll Down </a>
-
-
-
-
         </div>
       </header>
     </>
